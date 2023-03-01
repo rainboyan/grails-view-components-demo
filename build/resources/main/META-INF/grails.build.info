@@ -1,0 +1,6 @@
+#Wed, 01 Mar 2023 12:03:52 +0800
+
+info.app.version=0.1
+info.app.name=Grails View Components Demo
+grails.env=production
+info.app.grailsVersion=4.1.2
